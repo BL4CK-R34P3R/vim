@@ -449,6 +449,7 @@ Plug 'mattn/emmet-vim'
 Plug  'vim-syntastic/syntastic'
 Plug 'tpope/vim-commentary'
 Plug 'liuchengxu/vim-which-key'
+Plug 'github/copilot.vim'
 "
 call plug#end()
 
